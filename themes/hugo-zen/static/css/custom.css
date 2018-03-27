@@ -44,6 +44,7 @@ main {
 }
 
 .site-title {
+  font-family:"Candara","Yu Gothic Medium", "游ゴシック Medium";
   margin-top: 2rem;
 }
 
@@ -56,6 +57,7 @@ main {
 }
 
 .entry-meta {
+  font-family:"Candara","Yu Gothic Medium", "游ゴシック Medium";
   display: inline-block;
   margin-bottom: 2rem;
   font-size: 1.7rem;
@@ -63,6 +65,7 @@ main {
 }
 
 .footer-link {
+  font-family:"Candara","Yu Gothic Medium", "游ゴシック Medium";
   margin: 2rem 0;
 }
 
