@@ -1,0 +1,12 @@
+baseURL = "https://kottn.github.io/"
+languageCode = "ja"
+title = "kottn's posts"
+hasCJKLanguage = true 
+theme = "hugo-zen"
+copyright = "2017 kottn."
+
+
+[params]
+logo    = "/images/logo.png"
+github  = "https://github.com/kottn/"
+twitter = "https://twitter.com/kottn_jp"
