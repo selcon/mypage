@@ -1,7 +1,12 @@
 ---
 title: "About"
-date: 2018-03-18T21:12:04+09:00
-draft: false
-hidefromhome: true
+date: 2018-03-30T20:27:10+09:00
+lastmod: 2018-03-30T20:27:10+09:00
+draft: true
+menu: "main"
+description: ""
+weight: 50
+
 ---
-comming soon!
+
+Comming soon!
