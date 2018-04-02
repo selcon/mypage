@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kottn.me</title>
-    <link>https://kottn.github.io/mypage/</link>
+    <link>https://kottn.github.io/mypage/docs/</link>
     <description>Recent content on kottn.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>2017 kottn.</copyright>
     <lastBuildDate>Fri, 30 Mar 2018 20:27:10 +0900</lastBuildDate>
     
-	<atom:link href="https://kottn.github.io/mypage/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kottn.github.io/mypage/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://kottn.github.io/mypage/about/</link>
+      <link>https://kottn.github.io/mypage/docs/about/</link>
       <pubDate>Fri, 30 Mar 2018 20:27:10 +0900</pubDate>
       
-      <guid>https://kottn.github.io/mypage/about/</guid>
+      <guid>https://kottn.github.io/mypage/docs/about/</guid>
       <description>Comming soon!</description>
     </item>
     
     <item>
       <title>睡眠の技術</title>
-      <link>https://kottn.github.io/mypage/posts/%E7%9D%A1%E7%9C%A0%E3%81%AE%E6%8A%80%E8%A1%93/</link>
+      <link>https://kottn.github.io/mypage/docs/posts/%E7%9D%A1%E7%9C%A0%E3%81%AE%E6%8A%80%E8%A1%93/</link>
       <pubDate>Tue, 27 Mar 2018 09:17:58 +0900</pubDate>
       
-      <guid>https://kottn.github.io/mypage/posts/%E7%9D%A1%E7%9C%A0%E3%81%AE%E6%8A%80%E8%A1%93/</guid>
+      <guid>https://kottn.github.io/mypage/docs/posts/%E7%9D%A1%E7%9C%A0%E3%81%AE%E6%8A%80%E8%A1%93/</guid>
       <description>『SLEEP 最高の脳と身体をつくる睡眠の技術』まとめ 人生の質を睡眠の質が握っていることを知る: 睡眠不足はパフォーマンスの低下、肥満、老化の進</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://kottn.github.io/mypage/posts/hello-world/</link>
+      <link>https://kottn.github.io/mypage/docs/posts/hello-world/</link>
       <pubDate>Thu, 15 Mar 2018 15:35:29 +0900</pubDate>
       
-      <guid>https://kottn.github.io/mypage/posts/hello-world/</guid>
+      <guid>https://kottn.github.io/mypage/docs/posts/hello-world/</guid>
       <description>This is the test. 初投稿テストします。 This size is h1. これはサイズh1です。 This size is h2. これはサイズh2です。 This size is h3. これはサイズh3です。 This size is h4. これはサイズh</description>
     </item>
     
