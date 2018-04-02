@@ -1,3 +1,3 @@
 #!/bin/bash
-rm -rf public/*
-echo "gitdir: ../.git/modules/public" > public/.git
+#rm -rf public/*
+#echo "gitdir: ../.git/modules/public" > public/.git
