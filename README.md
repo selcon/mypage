@@ -1,21 +1,22 @@
-# new post
+# mypage
+Source files of my personal page
+
+## new post
 ```
-$ git clone https://github.com/kottn/mypage; cd mypage
-$ ./new.sh title
+./new.sh title
 ```
 
-# check
+## check draft
 ```
-$ hugo server -D
-$ firefox localhost:1313
-```
-
-# rewrite drafts
-```
-$ ./rewrite.sh
+hugo server -D && firefox localhost:1313
 ```
 
-# deploy
+## rewrite draft
+```
+./rewrite.sh
+```
+
+## deploy
 ```
 ./deploy.sh
 ```
