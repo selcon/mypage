@@ -20,3 +20,4 @@ hugo server -D && firefox localhost:1313
 ```
 ./deploy.sh
 ```
+NOTE) `./deploy.sh` automatically `git push` the contents of `public/` to `https://github.com/<ID>/<ID>.github.io`
