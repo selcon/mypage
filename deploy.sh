@@ -26,5 +26,7 @@ git add .
 git commit -m "$msg"
 git push origin master
 
-cd ../${MYPAGE}
+cd ..
+rm -rf ${ID}.github.io
+cd ${MYPAGE}
 
