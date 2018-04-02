@@ -1,3 +1,21 @@
-# memo
+# new post
+```
+$ git clone https://github.com/kottn/mypage; cd mypage
+$ ./new.sh title
+```
 
-[ここ](https://gohugo.io/hosting-and-deployment/hosting-on-github/#host-github-user-or-organization-pages)どおりにやる
+# check
+```
+$ hugo server -D
+$ firefox localhost:1313
+```
+
+# rewrite drafts
+```
+$ ./rewrite.sh
+```
+
+# deploy
+```
+./deploy.sh
+```
