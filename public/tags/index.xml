@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on kottn.me</title>
-    <link>https://kottn.github.io/mypage/docs/tags/</link>
+    <link>https://kottn.github.io/tags/</link>
     <description>Recent content in Tags on kottn.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>2017 kottn.</copyright>
     
-	<atom:link href="https://kottn.github.io/mypage/docs/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kottn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
