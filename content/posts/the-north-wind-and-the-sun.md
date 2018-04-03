@@ -20,3 +20,9 @@ With the first gust of wind the ends of the cloak whipped about the Traveler's b
 Then the Sun began to shine. At first his beams were gentle, and in the pleasant warmth after the bitter cold of the North Wind, the Traveler unfastened his cloak and let it hang loosely from his shoulders. The Sun's rays grew warmer and warmer. The man took off his cap and mopped his brow. At last he became so heated that he pulled off his cloak, and, to escape the blazing sunshine, threw himself down in the welcome shade of a tree by the roadside.
 
 *Gentleness and kind persuasion win where force and bluster fail.*
+
+![](/images/the-north-wind-and-the-sun/i107_th.jpg)
+
+![](/images/the-north-wind-and-the-sun/i106_th.jpg)
+
+*Aesop for Children* (translator not identified), 1919. Illustrations by Milo Winter (1886-1956). Available online at [Project Gutenberg](http://www.gutenberg.org/ebooks/19994?msg=welcome_stranger).
