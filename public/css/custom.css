@@ -1,17 +1,35 @@
-@import url('mplus_webfonts.css');
+@font-face {
+    font-family: 'CANDARA';
+    src: url('../fonts/CANDARA.eot');
+    src: local('CANDARA'), url('../fonts/CANDARA.woff') format('woff'),
+    url('../fonts/CANDARA.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'mplus-1c-regular';
+    src: url('../fonts/mplus-1c-regular-sub.eot');
+    src: url('../fonts/mplus-1c-regular-sub.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/mplus-1c-regular-sub.woff') format('woff'),
+    url('../fonts/mplus-1c-regular-sub.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'mplus-1m-regular';
+    src: url('../fonts/mplus-1m-regular-sub.eot');
+    src: url('../fonts/mplus-1m-regular-sub.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/mplus-1m-regular-sub.woff') format('woff'),
+    url('../fonts/mplus-1m-regular-sub.ttf') format('truetype');
+}
 
 body {
-  /* font-family:"Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif; */
   font-family:'mplus-1p-regular';
   background-color: #FCFCFC;
 }
 
-h1 { font-size: 1.9rem; }
-h2 { font-size: 1.7rem; }
-h3,
+h1 { font-size: 2.0rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
 h4,
 h5,
-h6 { font-size: 1.5rem; }
+h6 { font-size: 1.4rem; }
 
 img {
   max-width: 100%;
@@ -28,18 +46,17 @@ footer {
 
 main {
   margin: 4rem 0;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 
 pre, code, var, samp, kbd, .mono {
-  /* font-family: Consolas, 'Courier New', Courier, Monaco, monospace; */
   font-family:'mplus-1m-regular';
-  font-size: 1.2rem;
-  line-height: 1.2;
+  /* font-size: 1.2rem; */
+  /* line-height: 1.4; */
 }
 
 .container {
-  width: 100%;
+  width: 90%;
   max-width: 600px;
 }
 
@@ -47,7 +64,7 @@ pre, code, var, samp, kbd, .mono {
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  border: 3px solid #E1E1E1;
+  border: 2px solid #E1E1E1;
 }
 
 .header-logo img:hover {
@@ -55,8 +72,7 @@ pre, code, var, samp, kbd, .mono {
 }
 
 .site-title {
-  /* font-family:"Candara", "TimesNewRoman"; */
-  font-family:'mplus-1p-regular';
+  font-family:"CANDARA", "TimesNewRoman";
   margin-top: 2rem;
 }
 
@@ -71,8 +87,7 @@ pre, code, var, samp, kbd, .mono {
 }
 
 .entry-meta {
-  /* font-family:"Candara", "TimesNewRoman"; */
-  font-family:'mplus-1p-regular';
+  font-family:"CANDARA", "TimesNewRoman";
   display: inline-block;
   margin-bottom: 2rem;
   font-size: 1.2rem;
@@ -80,8 +95,7 @@ pre, code, var, samp, kbd, .mono {
 }
 
 .footer-link {
-  /* font-family:"Candara", "TimesNewRoman"; */
-  font-family:'mplus-1p-regular';
+  font-family:"CANDARA", "TimesNewRoman";
   font-size: 1.3rem;
   margin: 2rem 0;
 }

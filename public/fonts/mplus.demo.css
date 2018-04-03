@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Mplus 1c regular';
+    src: url('../fonts/mplus-1c-regular-sub.eot');
+    src: url('../fonts/mplus-1c-regular-sub.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/mplus-1c-regular-sub.woff') format('woff'),
+    url('../fonts/mplus-1c-regular-sub.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Mplus 1c regular';
+}
+
+
+@font-face {
+    font-family: 'Mplus 1m regular';
+    src: url('../fonts/mplus-1m-regular-sub.eot');
+    src: url('../fonts/mplus-1m-regular-sub.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/mplus-1m-regular-sub.woff') format('woff'),
+    url('../fonts/mplus-1m-regular-sub.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Mplus 1m regular';
+}
