@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on kottn.me</title>
+    <link>https://kottn.github.io/tags/test/</link>
+    <description>Recent content in Test on kottn.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>2017 kottn.</copyright>
+    <lastBuildDate>Tue, 03 Apr 2018 11:51:59 +0900</lastBuildDate>
+    
+	<atom:link href="https://kottn.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The North Wind and the Sun</title>
+      <link>https://kottn.github.io/posts/the-north-wind-and-the-sun/</link>
+      <pubDate>Tue, 03 Apr 2018 11:51:59 +0900</pubDate>
+      
+      <guid>https://kottn.github.io/posts/the-north-wind-and-the-sun/</guid>
+      <description>The North Wind and the Sun had a quarrel about which of them was the stronger. While they were disputing with much heat and bluster, a Traveler passed along the road wrapped in a cloak.
+&amp;ldquo;Let us agree,&amp;rdquo; said the Sun, &amp;ldquo;that he is the stronger who can strip that Traveler of his cloak.&amp;rdquo;
+&amp;ldquo;Very well,&amp;rdquo; growled the North Wind, and at once sent a cold, howling blast against the Traveler.</description>
+    </item>
+    
+  </channel>
+</rss>
