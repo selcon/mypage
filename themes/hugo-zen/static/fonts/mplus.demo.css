@@ -10,14 +10,14 @@ body {
 }
 
 @font-face {
-    font-family: 'Mplus 1c regular';
-    src: url('../fonts/mplus-1c-regular-sub.eot');
-    src: url('../fonts/mplus-1c-regular-sub.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/mplus-1c-regular-sub.woff') format('woff'),
-    url('../fonts/mplus-1c-regular-sub.ttf') format('truetype');
+    font-family: 'Mplus 1p bold';
+    src: url('../fonts/mplus-1p-bold-sub.eot');
+    src: url('../fonts/mplus-1p-bold-sub.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/mplus-1p-bold-sub.woff') format('woff'),
+    url('../fonts/mplus-1p-bold-sub.ttf') format('truetype');
 }
 body {
-    font-family: 'Mplus 1c regular';
+    font-family: 'Mplus 1p bold';
 }
 
 

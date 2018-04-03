@@ -12,8 +12,6 @@ This is the test.
 ## This size is `h2`. これはサイズ`h2`です。
 ### This size is `h3`. これはサイズ`h3`です。
 #### This size is `h4`. これはサイズ`h4`です。
-##### This size is `h5`. これはサイズ`h5`です。
-###### This size is `h6`. これはサイズ`h6`です。
 
 
 * 箇条書きも
