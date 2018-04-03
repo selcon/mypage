@@ -30,14 +30,14 @@
 }
 
 body {
-  font-family:'mplus-1p-regular';
+  font-family:"mplus-1p-regular";
   background-color: #FCFCFC;
 }
 
 h1 { font-size: 1.9rem; }
 h2 { font-size: 1.7rem; }
-h3 { font-size: 1.5rem; font-family:'mplus-1p-bold'; }
-h4 { font-size: 1.3rem; font-family:'mplus-1p-bold'; }
+h3 { font-size: 1.5rem; font-family:"mplus-1p-bold"; }
+h4 { font-size: 1.3rem; font-family:"mplus-1p-bold"; }
 
 img {
   max-width: 100%;
@@ -57,11 +57,11 @@ main {
   font-size: 1.2rem;
 }
 
+
 pre, code, var, samp, kbd, .mono {
-  /* font-family:'mplus-1m-regular'; */
-  font-family:'Consolas';
-  /* font-size: 1.2rem; */
-  /* line-height: 1.4; */
+  font-family:"Consolas","Monaco","mplus-1m-regular";
+/*   [> font-size: 1.2rem; <] */
+/*   [> line-height: 1.4; <] */
 }
 
 blockquote {
