@@ -33,7 +33,7 @@
 初投稿テストします。
 This size is h1. これはサイズh1です。 This size is h2. これはサイズh2です。 This size is h3. これはサイズh3です。 This size is h4. これはサイズh4です。  箇条書きも できる  リンクもはれる
 コードもこんなふうに
-complex :: i = (0.0,1.0) real :: pi = 3.141593 print *,&#39; exp(i*pi) = &#39;, exp(i*pi)  っぽくかける
+complex :: i = (0.0,1.0) real :: pi = 3.141593 print *,&#39; exp(i*pi) = &#39;, exp(i*pi) ! これは日本語コメント  っぽくかける
 this is in italic
 これはイタリックです
 this is in bold

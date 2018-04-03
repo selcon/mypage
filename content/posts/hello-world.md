@@ -25,10 +25,10 @@ This is the test.
 
 コードもこんなふうに
 
-```
+```fortran
 complex :: i = (0.0,1.0)
 real :: pi = 3.141593
-print *,' exp(i*pi) = ', exp(i*pi)
+print *,' exp(i*pi) = ', exp(i*pi)  ! これは日本語コメント
 ```
 
 っぽくかける
