@@ -5,17 +5,19 @@
     url('../fonts/CANDARA.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'mplus-1c-regular';
-    src: url('../fonts/mplus-1c-regular-sub.eot');
-    src: url('../fonts/mplus-1c-regular-sub.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/mplus-1c-regular-sub.woff') format('woff'),
-    url('../fonts/mplus-1c-regular-sub.ttf') format('truetype');
+    font-family: 'mplus-1p-regular';
+    src: url('../fonts/mplus-1p-regular-sub.eot');
+    /* src: url('../fonts/mplus-1p-regular-sub.eot?#iefix') format('embedded-opentype'), */
+    /* url('../fonts/mplus-1p-regular-sub.woff') format('woff'), */
+    src: local('mplus-1p-regular'), url('../fonts/mplus-1p-regular-sub.woff') format('woff'),
+    url('../fonts/mplus-1p-regular-sub.ttf') format('truetype');
 }
 @font-face {
     font-family: 'mplus-1m-regular';
     src: url('../fonts/mplus-1m-regular-sub.eot');
-    src: url('../fonts/mplus-1m-regular-sub.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/mplus-1m-regular-sub.woff') format('woff'),
+    /* src: url('../fonts/mplus-1m-regular-sub.eot?#iefix') format('embedded-opentype'), */
+    /* url('../fonts/mplus-1m-regular-sub.woff') format('woff'), */
+    src: local('mplus-1m-regular'), url('../fonts/mplus-1m-regular-sub.woff') format('woff'),
     url('../fonts/mplus-1m-regular-sub.ttf') format('truetype');
 }
 
