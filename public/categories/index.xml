@@ -5,11 +5,20 @@
     <link>https://kottn.github.io/categories/</link>
     <description>Recent content in Categories on kottn.me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>en</language>
     <copyright>2017 kottn.</copyright>
     
 	<atom:link href="https://kottn.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://kottn.github.io/categories/test/</link>
+      <pubDate>Thu, 15 Mar 2018 15:35:29 +0900</pubDate>
+      
+      <guid>https://kottn.github.io/categories/test/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

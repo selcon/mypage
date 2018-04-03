@@ -5,7 +5,7 @@
     <link>https://kottn.github.io/posts/</link>
     <description>Recent content in Posts on kottn.me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
+    <language>en</language>
     <copyright>2017 kottn.</copyright>
     <lastBuildDate>Tue, 03 Apr 2018 11:51:59 +0900</lastBuildDate>
     
@@ -29,7 +29,10 @@
       <pubDate>Tue, 03 Apr 2018 11:47:35 +0900</pubDate>
       
       <guid>https://kottn.github.io/posts/%E5%9D%8A%E3%81%A1%E3%82%83%E3%82%93/</guid>
-      <description>ここのサイトより 一 親譲りの無鉄砲で小供の時から損ばかりしている。小学校に居る時分学校の二階から飛び降りて一週間ほど腰を抜かした事がある。なぜ</description>
+      <description>ここのサイトより
+一
+　親譲りの無鉄砲で小供の時から損ばかりしている。小学校に居る時分学校の二階から飛び降りて一週間ほど腰を抜かした事がある。なぜそんな無闇をしたと聞く人があるかも知れぬ。別段深い理由でもない。新築の二階から首を出していたら、同級生の一人が冗談に、いくら威張っても、そこから飛び降りる事は出来まい。弱虫やーい。と囃したからである。小使に負ぶさって帰って来た時、おやじが大きな眼をして二階ぐらいから飛び降りて腰を抜かす奴があるかと云ったから、この次は抜かさずに飛んで見せますと答えた。
+　親類のものから西洋製のナイフを貰って奇麗な刃を日に翳して、友達に見せていたら、一人が光る事は光るが切れそうもないと云った。切れぬ事があるか、何でも切ってみせると受け合った。そんなら君の指を切ってみろと注文したから、何だ指ぐらいこの通りだと右の手の親指の甲をはすに切り込んだ。幸ナイフが小さいのと、親指の骨が堅かったので、今だに親指は手に付いている。しかし創痕は死ぬまで消えぬ。</description>
     </item>
     
     <item>
@@ -38,7 +41,7 @@
       <pubDate>Tue, 27 Mar 2018 09:17:58 +0900</pubDate>
       
       <guid>https://kottn.github.io/posts/%E7%9D%A1%E7%9C%A0%E3%81%AE%E6%8A%80%E8%A1%93/</guid>
-      <description>『SLEEP 最高の脳と身体をつくる睡眠の技術』まとめ 人生の質を睡眠の質が握っていることを知る: 睡眠不足はパフォーマンスの低下、肥満、老化の進</description>
+      <description>『SLEEP 最高の脳と身体をつくる睡眠の技術』まとめ  人生の質を睡眠の質が握っていることを知る: 睡眠不足はパフォーマンスの低下、肥満、老化の進行をもたらす。 睡眠をスケジュールに組み込む。 朝 6:00 - 8:30 のあいだに太陽光を浴びる。 就寝 90 分前にはあらゆる電子機器 (テレビ、パソコン、スマートフォン、タブレット、ゲームなど) の画面から離れる。 午後 2 時以降はコーヒーを飲まない。 室温を 20 ℃前後に保つ。 寝る 2 時間前にお風呂に入る。 午後 10 時 - 午前 2 時のあいだに眠る。 朝起きたらすぐ日光を浴びる。 就寝・起床時間をできるだけ変えない。 90 分単位で睡眠を確保する。 加工食品を避ける。睡眠によい栄養を摂る: ナッツ (アーモンド、クルミ、カシューナッツなど)、牛肉、鶏肉、葉野菜、ブロッコリー、アボカド、卵、ヨーグルト、トマト、にんにく、たまねぎ、カルシウム、マグネシウム (肌から摂る) など。 寝室を寝るためだけの部屋にする。 寝る前に水の流れる音を聴く。 寝室に植物を置く。イングリッシュ・アイビー (へデラ)、サンセベリアなど。 ジャスミンの香りを使う (ジャスミン茶を飲むのはダメ)。 寝室を真っ暗にする。 午前中に運動する。 週 2 回、筋力トレーニングをする。 余分な脂肪を落とす。糖質を避ける。 寝る前にお酒を飲まない。 仰向けに寝る。 朝、あるいは寝る前に瞑想をする。 寝る前にカモミールティーを飲む。 朝起きたら水を飲む。 マッサージを活用する。 ゆったりした格好で寝る。  参考文献 ショーン・スティーブンソン, SLEEP 最高の脳と身体をつくる睡眠の技術, ダイヤモンド社, 2017</description>
     </item>
     
     <item>
@@ -47,7 +50,18 @@
       <pubDate>Thu, 15 Mar 2018 15:35:29 +0900</pubDate>
       
       <guid>https://kottn.github.io/posts/hello-world/</guid>
-      <description>This is the test. 初投稿テストします。 This size is h1. これはサイズh1です。 This size is h2. これはサイズh2です。 This size is h3. これはサイズh3です。 This size is h4. これはサイズh</description>
+      <description>This is the test.
+初投稿テストします。
+This size is h1. これはサイズh1です。 This size is h2. これはサイズh2です。 This size is h3. これはサイズh3です。 This size is h4. これはサイズh4です。  箇条書きも できる  リンクもはれる
+コードもこんなふうに
+complex :: i = (0.0,1.0) real :: pi = 3.141593 print *,&#39; exp(i*pi) = &#39;, exp(i*pi)  っぽくかける
+this is in italic
+これはイタリックです
+this is in bold
+これは太字です
+this is bold and italic
+これは太字イタリックです
+ Use it if you&amp;rsquo;re quoting a person, a song or whatever.</description>
     </item>
     
   </channel>

@@ -2,6 +2,9 @@
 title: "Hello World"
 date: 2018-03-15T15:35:29+09:00
 draft: false
+tags: [test, markdown]
+categories: [test]
+
 ---
 
 This is the test.
