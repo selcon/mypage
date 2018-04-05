@@ -9,12 +9,12 @@ categories: [test]
 
 This is the test.
 
-初投稿テストします。
+これはテストです。
 
-# This size is `h1`. これはサイズ`h1`です。
-## This size is `h2`. これはサイズ`h2`です。
-### This size is `h3`. これはサイズ`h3`です。
-#### This size is `h4`. これはサイズ`h4`です。
+# This size is `h1`. サイズ`h1`です。
+## This size is `h2`. サイズ`h2`です。
+### This size is `h3`. サイズ`h3`です。
+#### This size is `h4`. サイズ`h4`です。
 
 
 * 箇条書きも
@@ -27,24 +27,28 @@ This is the test.
 
 ```fortran
 complex :: i = (0.0,1.0)
-real :: pi = 3.141593
-print *,' exp(i*pi) = ', exp(i*pi)  ! これは日本語コメント
+real :: pi = 3.141593               ! comment
+print *,' exp(i*pi) = ', exp(i*pi)  ! コメント
 ```
 
 っぽくかける
 
 *this is in italic*
 
-*これはイタリックです*
+`*`で囲めば*イタリックです*
 
 **this is in bold**
 
-**これは太字です**
+`**`で囲めば**太字です**
 
 
 ***this is bold and italic***
 
-***これは太字イタリックです***
+`***`で囲めば***太字イタリックです***
+
+`~~`で囲めば~~打ち消し~~
+
+`>`に続けば引用↓
 
 > Use it if you're quoting a person, a song or whatever.
 
