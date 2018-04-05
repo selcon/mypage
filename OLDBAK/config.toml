@@ -1,0 +1,15 @@
+baseURL = "https://kottn.github.io/"
+languageCode = "en"
+title = "kottn.me"
+theme = "hugo-zen"
+copyright = "2017 kottn."
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+[params]
+  logo    = "/logo/logo.png"
+  github  = "https://github.com/kottn/"
+  twitter = "https://twitter.com/kottn_jp"

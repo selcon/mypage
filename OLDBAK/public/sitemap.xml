@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kottn.github.io/posts/the-north-wind-and-the-sun/</loc>
+    <lastmod>2018-04-03T11:51:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kottn.github.io/posts/%E5%9D%8A%E3%81%A1%E3%82%83%E3%82%93/</loc>
+    <lastmod>2018-04-03T11:47:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kottn.github.io/about/</loc>
+    <lastmod>2018-03-30T20:27:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kottn.github.io/posts/%E7%9D%A1%E7%9C%A0%E3%81%AE%E6%8A%80%E8%A1%93/</loc>
+    <lastmod>2018-03-27T09:17:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kottn.github.io/posts/hello-world/</loc>
+    <lastmod>2018-03-15T15:35:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kottn.github.io/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kottn.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kottn.github.io/tags/markdown/</loc>
+    <lastmod>2018-03-15T15:35:29+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kottn.github.io/posts/</loc>
+    <lastmod>2018-04-03T11:51:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kottn.github.io/tags/</loc>
+    <lastmod>2018-03-15T15:35:29+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kottn.github.io/tags/test/</loc>
+    <lastmod>2018-04-03T11:51:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kottn.github.io/categories/test/</loc>
+    <lastmod>2018-03-15T15:35:29+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kottn.github.io/</loc>
+    <lastmod>2018-04-03T11:51:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'CANDARA';
+    src: url('../fonts/CANDARA.eot');
+    src: local('CANDARA'), url('../fonts/CANDARA.woff') format('woff'),
+    url('../fonts/CANDARA.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'mplus-1p-regular';
+    src: url('../fonts/mplus-1p-regular-sub.eot');
+    /* src: url('../fonts/mplus-1p-regular-sub.eot?#iefix') format('embedded-opentype'), */
+    /* url('../fonts/mplus-1p-regular-sub.woff') format('woff'), */
+    src: local('mplus-1p-regular'), url('../fonts/mplus-1p-regular-sub.woff') format('woff'),
+    url('../fonts/mplus-1p-regular-sub.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'mplus-1p-bold';
+    src: url('../fonts/mplus-1p-bold-sub.eot');
+    /* src: url('../fonts/mplus-1p-bold-sub.eot?#iefix') format('embedded-opentype'), */
+    /* url('../fonts/mplus-1p-bold-sub.woff') format('woff'), */
+    src: local('mplus-1p-bold'), url('../fonts/mplus-1p-bold-sub.woff') format('woff'),
+    url('../fonts/mplus-1p-bold-sub.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'mplus-1m-regular';
+    src: url('../fonts/mplus-1m-regular-sub.eot');
+    /* src: url('../fonts/mplus-1m-regular-sub.eot?#iefix') format('embedded-opentype'), */
+    /* url('../fonts/mplus-1m-regular-sub.woff') format('woff'), */
+    src: local('mplus-1m-regular'), url('../fonts/mplus-1m-regular-sub.woff') format('woff'),
+    url('../fonts/mplus-1m-regular-sub.ttf') format('truetype');
+}
+
+body {
+  /* font-family: Optima, 'Lucida Sans', Calibri, Candara, Arial, 'source-han-serif-sc', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif TC', 'Source Han Serif TW', 'Source Han Serif', 'Songti SC', 'Microsoft YaHei', sans-serif; */
+  font-family: mplus-1p-regular;
+}
+blockquote {
+  /* font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, 'STKaiti', 'KaiTi', '楷体', 'SimKai', 'DFKai-SB', 'NSimSun', serif; */
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, 'STKaiti', 'KaiTi', '楷体', 'SimKai', 'DFKai-SB', 'NSimSun', serif;
+}
+code {
+  font-family: "Consolas", "Lucida Console", 'Andale Mono', 'STKaiti', 'KaiTi', 'SimKai', monospace;
+}
+pre code {
+  font-family: "Consolas", "Lucida Console", Monaco, 'STKaiti', 'KaiTi', 'SimKai', monospace;
+  font-size: .80em;
+}
+
+.head-meta {
+  font-family: CANDARA;
+  font-size: 1.1em;
+}
+
+.footer, .article-list {
+  font-family: CANDARA;
+}
+
