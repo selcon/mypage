@@ -30,17 +30,16 @@
       
       <guid>https://kottn.github.io/posts/hello-world/</guid>
       <description>This is the test.
-初投稿テストします。
-This size is h1. これはサイズh1です。 This size is h2. これはサイズh2です。 This size is h3. これはサイズh3です。 This size is h4. これはサイズh4です。  箇条書きも できる  リンクもはれる
+これはテストです。
+This size is h1. サイズh1です。 This size is h2. サイズh2です。 This size is h3. サイズh3です。 This size is h4. サイズh4です。  箇条書きも できる  リンクもはれる
 コードもこんなふうに
-complex :: i = (0.0,1.0) real :: pi = 3.141593 print *,&#39; exp(i*pi) = &#39;, exp(i*pi) ! これは日本語コメント  っぽくかける
+complex :: i = (0.0,1.0) real :: pi = 3.141593 ! comment print *,&#39; exp(i*pi) = &#39;, exp(i*pi) ! コメント  っぽくかける
 this is in italic
-これはイタリックです
+*で囲めばイタリックです
 this is in bold
-これは太字です
+**で囲めば太字です
 this is bold and italic
-これは太字イタリックです
- Use it if you&amp;rsquo;re quoting a person, a song or whatever.</description>
+***で囲めば太字イタリックです</description>
     </item>
     
   </channel>
