@@ -1,8 +1,8 @@
 ---
-title: {{ replace .TranslationBaseName "-" " " | title }}
+title: Ooo
 author: kottn
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2018-04-14T00:16:18+09:00
+lastmod: 2018-04-14T00:16:18+09:00
 categories:
   - Research
   - Music

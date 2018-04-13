@@ -1,8 +1,8 @@
 ---
-title: {{ replace .TranslationBaseName "-" " " | title }}
+title: Fff
 author: kottn
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2018-04-14T00:14:45+09:00
+lastmod: 2018-04-14T00:14:45+09:00
 categories:
   - Research
   - Music
