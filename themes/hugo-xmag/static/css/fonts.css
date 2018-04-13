@@ -7,24 +7,18 @@
 @font-face {
     font-family: 'mplus-1p-regular';
     src: url('../fonts/mplus-1p-regular-sub.eot');
-    /* src: url('../fonts/mplus-1p-regular-sub.eot?#iefix') format('embedded-opentype'), */
-    /* url('../fonts/mplus-1p-regular-sub.woff') format('woff'), */
     src: local('mplus-1p-regular'), url('../fonts/mplus-1p-regular-sub.woff') format('woff'),
     url('../fonts/mplus-1p-regular-sub.ttf') format('truetype');
 }
 @font-face {
     font-family: 'mplus-1p-bold';
     src: url('../fonts/mplus-1p-bold-sub.eot');
-    /* src: url('../fonts/mplus-1p-bold-sub.eot?#iefix') format('embedded-opentype'), */
-    /* url('../fonts/mplus-1p-bold-sub.woff') format('woff'), */
     src: local('mplus-1p-bold'), url('../fonts/mplus-1p-bold-sub.woff') format('woff'),
     url('../fonts/mplus-1p-bold-sub.ttf') format('truetype');
 }
 @font-face {
     font-family: 'mplus-1m-regular';
     src: url('../fonts/mplus-1m-regular-sub.eot');
-    /* src: url('../fonts/mplus-1m-regular-sub.eot?#iefix') format('embedded-opentype'), */
-    /* url('../fonts/mplus-1m-regular-sub.woff') format('woff'), */
     src: local('mplus-1m-regular'), url('../fonts/mplus-1m-regular-sub.woff') format('woff'),
     url('../fonts/mplus-1m-regular-sub.ttf') format('truetype');
 }
@@ -44,6 +38,10 @@ pre code {
   font-family: "Consolas", "Lucida Console", Monaco, 'STKaiti', 'KaiTi', 'SimKai', monospace;
   font-size: .80em;
 }
+
+/* .banner .text { */
+/*   font-family: "CANDARA"; */
+/* } */
 
 .head-meta {
   font-family: CANDARA;

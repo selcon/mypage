@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "kottn mag"
+title = "kMag"
 theme = "hugo-xmag"
 googleAnalytics = ""
 disqusShortname = ""
@@ -30,17 +30,14 @@ paginate = 6
     name = "Tags"
     url = "/tags/"
     weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
 
 [params]
     description = "A website built through Hugo and blogdown."
     summary_length = 200
-    github_edit = "https://github.com/kottn/mypage/content/"
-    footer = "&copy; 2017 kottn. | [Github](https://github.com/kottn) | [Twitter](https://twitter.com/kottn_jp)"
+    github_edit = "https://github.com/kottn/mypage/tree/master/content/"
+    footer = "(c) 2017 kottn | [Github](https://github.com/kottn) | [Twitter](https://twitter.com/kottn_jp)"
 
 [params.text]
-    back = "&larr; Back to Home"
-    edit = "Edit this page &rarr;"
+    back = "&larr; Home"
+    edit = "Edit &rarr;"
     truncated = "&hellip;"

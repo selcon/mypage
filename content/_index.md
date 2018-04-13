@@ -1,3 +1,3 @@
 ---
-title: kottn mag
+title: kMag
 ---

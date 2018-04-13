@@ -1,13 +1,14 @@
 ---
-title: "Initial Kottn Post"
-author: "kottn"
-date: 2018-04-05T21:20:57+09:00
-lastmod: 2018-04-05T21:20:57+09:00
+title: "Hello World I'm Kottn"
+author: 
+  - kottn
+date: 2018-04-06T10:39:05+09:00
+lastmod: 2018-04-06T10:39:05+09:00
 draft: true
-tags:
+categories:
   - markdown
   - cheatsheet
-categories:
+tags:
   - example
 toc: true
 thumbnail: logo/logo.png
@@ -64,8 +65,21 @@ And just like with other paragraphs,
 all of these lines are still
 part of the blockquote, even without the > character in front.
 
+> これは引用部分です。フォントは大丈夫ですか？
+
 To end the blockquote, just put a blank line before the following
 paragraph.
+
+Input:
+```
+- [x] task1
+- [ ] task2
+```
+
+Output:
+
+- [x] task1
+- [ ] task2
 
 hugoが対応するMarkdown記法については[ここ](https://sourceforge.net/p/hugo-generator/wiki/markdown_syntax/)みるといい。
 
