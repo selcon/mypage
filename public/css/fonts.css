@@ -26,13 +26,17 @@
 body {
   /* font-family: Optima, Candara, Calibri, Arial, sans-serif; */
   /* font-family: CANDARA, sans-serif; */
-  font-family: mplus-1p-regular;
-  font-size: 85%;
+  font-family: Calibri, Arial, mplus-1p-regular;
+  font-size: 90%;
 }
 code {
-  font-family: "Consolas", "Lucida Console", Monaco, monospace;
+  font-family: Consolas, mplus-1m-regular;
 }
 pre code {
-  font-family: "Consolas", "Lucida Console", Monaco, monospace;
+  font-family: Consolas, mplus-1m-regular;
   font-size: 85%;
 }
+
+/* .menu, .article-meta, footer { */
+/*   font-family: CANDARA, sans-serif; */
+/* } */
