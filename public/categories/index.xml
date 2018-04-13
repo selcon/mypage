@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>CheatSheet</title>
+      <link>/categories/cheatsheet/</link>
+      <pubDate>Fri, 06 Apr 2018 10:39:05 +0900</pubDate>
+      
+      <guid>/categories/cheatsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example</title>
       <link>/categories/example/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
@@ -25,6 +34,15 @@
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>/categories/markdown/</link>
+      <pubDate>Fri, 06 Apr 2018 10:39:05 +0900</pubDate>
+      
+      <guid>/categories/markdown/</guid>
       <description></description>
     </item>
     

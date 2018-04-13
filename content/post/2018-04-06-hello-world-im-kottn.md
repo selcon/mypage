@@ -9,7 +9,7 @@ categories:
 tags:
   - Example
 toc: true
-draft: true
+draft: false
 ---
 
 こんにちは、みなさん
