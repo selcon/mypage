@@ -2,11 +2,9 @@
 title: Home
 ---
 
-[<img src="logo/kirin.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/kottn)
+[<img src="logo/kirin_big.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/kottn)
 
 # kottn.me
-
-## _Keep it simple, but not simpler_
 
 **XMin** is a Hugo theme written by [Yihui Xie](https://yihui.name) in about four hours: half an hour was spent on the Hugo templates, and 3.5 hours were spent on styling. The main motivation for writing this theme was to provide a really minimal example to beginners of Hugo templates. This XMin theme contains about 130 lines of code in total, including the code in HTML templates and CSS (also counting empty lines).
 

@@ -1,6 +1,6 @@
 ---
 title: "About me"
-author: kottn
 ---
+I'm kottn.
 
-Comming soon!
+More details comming soon!

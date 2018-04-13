@@ -30,9 +30,6 @@ enableEmoji = true
     name = "Tags"
     url = "/tags/"
     weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
 
 [params]
     description = "A website built through Hugo and blogdown."
