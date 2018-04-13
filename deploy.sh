@@ -10,7 +10,7 @@ hugo
 git add .
 
 # Commit changes. for "${MYPAGE}"
-msg="rebuilding site `date`"
+msg="rebuilding site `date +%F-%A`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi

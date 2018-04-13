@@ -1,18 +1,18 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "kMag"
-theme = "hugo-xmag"
+title = "kottn.me"
+theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 hasCJKLanguage = true
 enableEmoji = true
-paginate = 6
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
     name = "Home"
@@ -30,14 +30,12 @@ paginate = 6
     name = "Tags"
     url = "/tags/"
     weight = 4
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    summary_length = 200
     github_edit = "https://github.com/kottn/mypage/tree/master/content/"
     footer = "(c) 2017 kottn | [Github](https://github.com/kottn) | [Twitter](https://twitter.com/kottn_jp)"
 
-[params.text]
-    back = "&larr; Home"
-    edit = "Edit &rarr;"
-    truncated = "&hellip;"

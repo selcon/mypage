@@ -1,20 +1,19 @@
 ---
-title: "Hello World I'm Kottn"
-author: 
-  - kottn
+title: Hello World I'm Kottn
+author: kottn
 date: 2018-04-06T10:39:05+09:00
 lastmod: 2018-04-06T10:39:05+09:00
-draft: true
 categories:
-  - markdown
-  - cheatsheet
+  - Markdown
+  - CheatSheet
 tags:
-  - example
+  - Example
 toc: true
-thumbnail: logo/logo.png
+draft: true
 ---
 
 こんにちは、みなさん
+
 This is the test.
 
 これはテストです。

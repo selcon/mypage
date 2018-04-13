@@ -1,15 +1,13 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-author: 
-  - kottn
-date: {{ .Date }}
-lastmod: {{ .Date }}
-draft: true
+title: {{ replace .TranslationBaseName "-" " " | title }}
+title: ""
+author: kottn
+date: {{ "January 2, 2006" }}
+lastmod: {{ "January 2, 2006" }}
 categories:
   - 
 tags:
   - 
-toc: true
-thumbnail: logo/logo.png
+draft: true
 ---
 
