@@ -23,16 +23,23 @@
     url('../fonts/mplus-1m-regular-sub.ttf') format('truetype');
 }
 
+h1 {
+  font-size: 1.5rem;
+}
+
 body {
-  font-family: Calibri, Arial, mplus-1p-regular, sans-serif;
+  font-family: "Yu Mincho", YuMincho, serif;
   font-size: 90%;
 }
 code {
-  font-family: Consolas, "Liberation Mono", Courier, mplus-1m-regular;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
 }
 pre code {
-  font-family: Consolas, "Liberation Mono", Courier, mplus-1m-regular;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
   font-size: 85%;
+}
+blockquote {
+  font-family: "Yu Mincho", YuMincho;
 }
 
 .menu, .article-meta, footer {
