@@ -4,16 +4,17 @@ author: kottn
 date: {{ .Date }}
 lastmod: {{ .Date }}
 categories:
+  - Lifelog
   - Research
-  - Music
-  - Movie
   - Book
-  - Life
+  - Movie/Music
 tags:
-  - Report
   - Quick
+  - Report
+  - Note
+  - CheetSheet
   - Code
-  - 
 draft: true
+toc: false
 ---
 

@@ -13,11 +13,11 @@ hugo server -D && firefox localhost:1313
 
 ### rewrite draft
 ```
-./rewrite.sh
+./rewrite.sh [-f]
 ```
 
 ### deploy
 ```
-./deploy.sh
+./Deploy.sh
 ```
-:exclamation: `deploy.sh` automatically `git push` the contents of `public/` to `https://github.com/<ID>/<ID>.github.io`
+:exclamation: `Deploy.sh` automatically `git push` the contents of `public/` to `https://github.com/<ID>/<ID>.github.io`

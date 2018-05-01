@@ -1,8 +1,8 @@
 ---
-title: Aaa
+title: Abb
 author: kottn
-date: 2018-05-02T03:14:50+09:00
-lastmod: 2018-05-02T03:14:50+09:00
+date: 2018-05-02T03:15:20+09:00
+lastmod: 2018-05-02T03:15:20+09:00
 categories:
   - Lifelog
   - Research

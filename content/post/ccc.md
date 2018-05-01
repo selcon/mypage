@@ -1,19 +1,20 @@
 ---
 title: Ccc
 author: kottn
-date: 2018-04-14T00:14:19+09:00
-lastmod: 2018-04-14T00:14:19+09:00
+date: 2018-05-02T03:15:02+09:00
+lastmod: 2018-05-02T03:15:02+09:00
 categories:
+  - Lifelog
   - Research
-  - Music
-  - Movie
   - Book
-  - Life
+  - Movie/Music
 tags:
-  - Report
   - Quick
+  - Report
+  - Note
+  - CheetSheet
   - Code
-  - 
 draft: true
+toc: false
 ---
 
