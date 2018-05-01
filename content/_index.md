@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="logo/kirin_big.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/kottn)
+[<img src="logo/kirin_big.svg" style="max-width:15%;min-width:75px;float:right;" alt="Github repo" />](https://github.com/kottn)
 
 # kottn.me
 
