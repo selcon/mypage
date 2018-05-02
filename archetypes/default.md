@@ -1,6 +1,5 @@
 ---
 title: {{ replace .TranslationBaseName "-" " " | title }}
-author: kottn
 date: {{ .Date }}
 lastmod: {{ .Date }}
 categories:
