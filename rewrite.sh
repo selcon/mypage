@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "You can check ALL posts and notes with '-f' option"
 if [[ $1 == "-f" ]]; then
     DRAFT=$(\grep -ilrn "draft: false" ./content | xargs \ls -lt | awk '{print $9}' | nl -w 4)
     echo ""
