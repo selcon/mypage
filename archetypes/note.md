@@ -1,16 +1,14 @@
 ---
-title: Aaa
-author: kottn
-date: 2018-05-02T03:14:50+09:00
-lastmod: 2018-05-02T03:14:50+09:00
+title: {{ replace .TranslationBaseName "-" " " | title }}
+date: {{ .Date }}
+lastmod: {{ .Date }}
 categories:
   - Lifelog
   - Research
   - Book
   - Movie/Music
+  - Others
 tags:
-  - Quick
-  - Report
   - Note
   - CheetSheet
   - Code

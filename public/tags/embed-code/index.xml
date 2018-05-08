@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on kottn.me</title>
-    <link>/</link>
-    <description>Recent content in Home on kottn.me</description>
+    <title>Embed code on kottn.me</title>
+    <link>/tags/embed-code/</link>
+    <description>Recent content in Embed code on kottn.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 May 2018 19:19:18 +0900</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/embed-code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,21 +22,6 @@ A post shared by Takuma Kotani (@kotani99) on Apr 14, 2018 at 5:16pm PDT
   Example speaker deck 
 Example tweet ペペロミア。名前がもうかわいい pic.twitter.com/gFXH4hkSm6
 &amp;mdash; kottn (@kottn_jp) April 21, 2018  Example youtube   </description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>I&amp;rsquo;m Takuma Kotani (a.k.a. kottn), a disaster prevention and mitigation engineer at IRIDeS.
-👾 Github/kottn
-🎓 Speaker Deck/kottn
-💭 Twitter/@kottn_jp
-🌻 Instagram/kotani99
-👥 Facebook/takuma.kotani.16
-More details comming soon!</description>
     </item>
     
   </channel>

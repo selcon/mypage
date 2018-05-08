@@ -7,10 +7,9 @@ categories:
   - Research
   - Book
   - Movie/Music
+  - Others
 tags:
-  - Quick
-  - Report
-  - Note
+  - Post
   - CheetSheet
   - Code
 draft: true
