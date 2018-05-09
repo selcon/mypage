@@ -1,5 +1,5 @@
 ---
-title: The Test of Shortcodes
+title: Shortcode Test
 date: 2018-05-08T19:19:18+09:00
 lastmod: 2018-05-08T19:19:18+09:00
 categories:

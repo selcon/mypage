@@ -1,9 +1,9 @@
 #!/bin/bash
 echo ""
-echo "*** You can check ALL posts and notes with '-f' option"
+echo "*** You can check ALL posts and notes with '--all' option"
 
-if [[ $1 == "-f" ]]; then
-    DRAFT=$(\grep -ilrn "draft: false" ./content |xargs \ls -lt *.md |grep -v "README.md" |awk '{print $9}' |nl -w 4)
+if [[ $1 == "--all" ]]; then
+    DRAFT=$(\grep -ilrn "draft: " ./content |xargs \ls -lt *.md |grep -v "README.md" |awk '{print $9}' |nl -w 4)
     echo ""
     echo -e "<No.>\t<Finished file>"
     echo "${DRAFT}"

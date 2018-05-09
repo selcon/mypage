@@ -1,9 +1,36 @@
 ---
 title: "About me"
 ---
-### Hi
-I'm Takuma Kotani (a.k.a. **kottn**), a disaster prevention and mitigation engineer at [IRIDeS](http://irides.tohoku.ac.jp/eng/index.html). Several accounts represent a part of me, e.g., :space_invader:[GitHub](https://github.com/kottn), :mortar_board:[Speaker Deck](https://speakerdeck.com/kottn), :thought_balloon:[Twitter](https://twitter.com/kottn_jp), :sunflower:[Instagram](https://www.instagram.com/kotani99), :busts_in_silhouette:[Facebook](https://www.facebook.com/takuma.kotani.16), or :sound:[SoundCloud](https://soundcloud.com/takuma-kotani).
+I'm Takuma Kotani (a.k.a. **kottn**), a disaster prevention and mitigation engineer at [IRIDeS](http://irides.tohoku.ac.jp/eng/index.html).
 
-### Education
+[GH:space_invader:](https://github.com/kottn) / [SC:sound:](https://soundcloud.com/takuma-kotani) / [TW:thought_balloon:](https://twitter.com/kottn_jp) / [SD:mortar_board:](https://speakerdeck.com/kottn) / [FB:busts_in_silhouette:](https://www.facebook.com/takuma.kotani.16) / [IG:sunflower:](https://www.instagram.com/kotani99)
 
-More details comming soon!
+## Education
+* **Tohoku University**, Japan  
+Ph.D (Civil and Environmental Engineering), Mar 2019.  
+M.S. (Civil and Environmental Engineering), Mar 2016.  
+
+* **Kisarazu National College of Technology**, Japan  
+B.S. (Civil and Environmental Engineering), Mar 2014.
+
+## Work
+Comming soon.
+
+## Publications
+
+## Activities
+### Internships
+More details comming soon.
+
+## Favorite
+* I:heart:Debian
+
+```
+                       (__) 
+                       (oo) 
+                 /------\/ 
+                / |    ||   
+               *  /\---/\ 
+                  ~~   ~~   
+      ..."Have you mooed today?"...
+```

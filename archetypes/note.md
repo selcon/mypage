@@ -1,7 +1,10 @@
 ---
 title: {{ replace .TranslationBaseName "-" " " | title }}
+slug: ""
+
 date: {{ .Date }}
 lastmod: {{ .Date }}
+
 categories:
   - Interest
   - Lifelog
@@ -10,10 +13,11 @@ categories:
   - Movie
   - Music
   - Others
+
 tags:
   - note
-  - code
-  - cheetsheet
+  -
+
 draft: true
 toc: false
 ---

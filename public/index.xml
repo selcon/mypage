@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>The Test of Shortcodes</title>
-      <link>/post/2018/05/08/the-test-of-shortcodes/</link>
+      <title>Shortcode Test</title>
+      <link>/post/2018/05/08/shortcode-test/</link>
       <pubDate>Tue, 08 May 2018 19:19:18 +0900</pubDate>
       
-      <guid>/post/2018/05/08/the-test-of-shortcodes/</guid>
+      <guid>/post/2018/05/08/shortcode-test/</guid>
       <description>Demo Example gist Example instagram India Pale Ale, Session IPA, 雷電, Semi-sour Pale Ale A post shared by Takuma Kotani (@kotani99) on Apr 14, 2018 at 5:16pm PDT Example speaker deck Example tweet ペペロミア。名前がもうかわいい pic.twitter.com/gFXH4hkSm6 &amp;mdash; kottn (@kottn_jp) April 21, 2018 Example youtube いいかんじ！</description>
     </item>
     
@@ -26,8 +26,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hi I&amp;rsquo;m Takuma Kotani (a.k.a. kottn), a disaster prevention and mitigation engineer at IRIDeS. Several accounts represent a part of me, e.g., 👾GitHub, 🎓Speaker Deck, 💭Twitter, 🌻Instagram, 👥Facebook, or 🔉SoundCloud.
-Education More details comming soon!</description>
+      <description>I&amp;rsquo;m Takuma Kotani (a.k.a. kottn), a disaster prevention and mitigation engineer at IRIDeS.
+GH👾 / SC🔉 / TW💭 / SD🎓 / FB👥 / IG🌻
+Education  Tohoku University, Japan
+Ph.D (Civil and Environmental Engineering), Mar 2019.
+M.S. (Civil and Environmental Engineering), Mar 2016.
+ Kisarazu National College of Technology, Japan
+B.S. (Civil and Environmental Engineering), Mar 2014.
+  Work Comming soon.
+Publications Activities Internships More details comming soon.</description>
     </item>
     
   </channel>
