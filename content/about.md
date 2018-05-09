@@ -3,7 +3,7 @@ title: "About me"
 ---
 I'm Takuma Kotani (a.k.a. **kottn**), a disaster prevention and mitigation engineer at [IRIDeS](http://irides.tohoku.ac.jp/eng/index.html).
 
-[GH:space_invader:](https://github.com/kottn) / [SC:sound:](https://soundcloud.com/takuma-kotani) / [TW:thought_balloon:](https://twitter.com/kottn_jp) / [SD:mortar_board:](https://speakerdeck.com/kottn) / [FB:busts_in_silhouette:](https://www.facebook.com/takuma.kotani.16) / [IG:sunflower:](https://www.instagram.com/kotani99)
+[GH:space_invader:](https://github.com/kottn)/[SC:sound:](https://soundcloud.com/takuma-kotani)/[TW:thought_balloon:](https://twitter.com/kottn_jp)/[SD:mortar_board:](https://speakerdeck.com/kottn)/[FB:busts_in_silhouette:](https://www.facebook.com/takuma.kotani.16)/[IG:sunflower:](https://www.instagram.com/kotani99)
 
 ## Education
 * **Tohoku University**, Japan  

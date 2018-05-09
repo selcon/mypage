@@ -39,11 +39,38 @@
     </item>
     
     <item>
+      <title>Japanese</title>
+      <link>/tags/japanese/</link>
+      <pubDate>Wed, 09 May 2018 20:37:32 +0900</pubDate>
+      
+      <guid>/tags/japanese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>/tags/post/</link>
+      <pubDate>Wed, 09 May 2018 20:37:32 +0900</pubDate>
+      
+      <guid>/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shortcode</title>
       <link>/tags/shortcode/</link>
       <pubDate>Tue, 08 May 2018 19:19:18 +0900</pubDate>
       
       <guid>/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>/tags/test/</link>
+      <pubDate>Wed, 09 May 2018 20:37:32 +0900</pubDate>
+      
+      <guid>/tags/test/</guid>
       <description></description>
     </item>
     

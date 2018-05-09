@@ -9,8 +9,8 @@ tags:
   - post
   - test
   - japanese
-draft: true
-toc: true
+draft: false
+toc: false
 ---
 
 これは *日本語の* テスト`desuyo`
