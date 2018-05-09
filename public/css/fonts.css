@@ -6,12 +6,9 @@
     url('../fonts/CANDARA.ttf') format('truetype');
 }
 
-h1 {
-  font-size: 1.5rem;
-}
-
 body {
-  font-family: Calibri, Arial, "Noto Sans JP", "Yu Gothic Medium", YuGothic, sans-serif;
+  /* font-family: Calibri, Arial, "Noto Sans JP", "Yu Gothic Medium", YuGothic, sans-serif; */
+  font-family: Arial, "Noto Sans JP", "Yu Gothic Medium", YuGothic, sans-serif;
   font-size: 90%;
 }
 code {
@@ -19,7 +16,7 @@ code {
 }
 pre code {
   font-family: Consolas, "Liberation Mono", Courier, monospace;
-  font-size: 85%;
+  font-size: 75%;
 }
 blockquote {
   font-family: "Times New Roman", "Yu Mincho", YuMincho;

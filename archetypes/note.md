@@ -3,15 +3,17 @@ title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 lastmod: {{ .Date }}
 categories:
+  - Interest
   - Lifelog
   - Research
   - Book
-  - Movie/Music
+  - Movie
+  - Music
   - Others
 tags:
-  - Note
-  - CheetSheet
-  - Code
+  - note
+  - code
+  - cheetsheet
 draft: true
 toc: false
 ---

@@ -12,20 +12,29 @@
     
     
     <item>
-      <title>Cheet sheet</title>
-      <link>/tags/cheet-sheet/</link>
+      <title>Cheetsheet</title>
+      <link>/tags/cheetsheet/</link>
       <pubDate>Tue, 08 May 2018 19:19:18 +0900</pubDate>
       
-      <guid>/tags/cheet-sheet/</guid>
+      <guid>/tags/cheetsheet/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Embed code</title>
-      <link>/tags/embed-code/</link>
+      <title>Code</title>
+      <link>/tags/code/</link>
       <pubDate>Tue, 08 May 2018 19:19:18 +0900</pubDate>
       
-      <guid>/tags/embed-code/</guid>
+      <guid>/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedcode</title>
+      <link>/tags/embedcode/</link>
+      <pubDate>Tue, 08 May 2018 19:19:18 +0900</pubDate>
+      
+      <guid>/tags/embedcode/</guid>
       <description></description>
     </item>
     

@@ -1,17 +1,18 @@
 ---
-title: The Test of Short Code
+title: The Test of Shortcodes
 date: 2018-05-08T19:19:18+09:00
 lastmod: 2018-05-08T19:19:18+09:00
 categories:
   - Others
 tags:
-  - Cheet sheet
-  - Shortcode
-  - Embed code
+  - cheetsheet
+  - shortcode
+  - code
+  - embedcode
 draft: false
 toc: false
 ---
-# Short Code demonstration.
+# Demo
 
 ## Example `gist`
 {{< gist spf13 7896402 "img.html" >}}
@@ -28,3 +29,5 @@ toc: false
 ## Example `youtube`
 {{< youtube w7Ft2ymGmfc >}}
 
+
+いいかんじ！
