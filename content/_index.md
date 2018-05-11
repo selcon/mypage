@@ -2,12 +2,15 @@
 title: Home
 ---
 
-[<img src="logo/kirin_big.svg" style="max-width:15%;min-width:80px;float:right;" alt="Github repo" />](https://github.com/kottn)
+[<img src="logo/ballani.gif" style="max-width:15%;min-width:80px;float:right;" alt="Github repo" />](http://selcon.web.fc2.com/008/008.html)
 
-# kottn.me
+## 一般社団法人日本セルフケアコンディショニング協会
 
-**kottn.me** is an aggregation of "unknown X" in my brain for organize thinking myself. The X are categorized into several [keywords](/categories/).  
-You can also visit the list page of a single section in [posts](/post/), or [notes](/note/).
+毎日の歯磨きのように、日々数分からだを動かすセルフケア習慣を身につけることで活動的でいられたら理想ですね。
+「コリやハリ毎日の歯磨きのように、日々数分からだを動かすセルフケア習慣を身につけることで活動的でいられたら理想ですね。が楽になる」「家庭内介護に役立つ」そんなケアとコンディショニングを習得したい方、まずは、手のひら大の触覚ボールで『おす・おしころがす・はさむ』だけの簡単セルフケアを続けることで、楽に機能するからだを「自分自身で」手に入れてみませんか？
+
+このページは、一般社団法人日本セルフケアコンディショニング協会（通称：せるこん）のページです。
+
 
 ---
-### Recently post:
+### 最近の投稿:
