@@ -1,32 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on kottn.me</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on kottn.me</description>
+    <title>Posts on Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <link>https://selcon.github.io/post/</link>
+    <description>Recent content in Posts on Initio - Free, multipurpose html5 template by GetTemplate</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 09 May 2018 20:37:32 +0900</lastBuildDate>
+    <language>ja</language>
+    <lastBuildDate>Fri, 13 Apr 2018 20:37:32 +0900</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://selcon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>日本語のテスト</title>
-      <link>/post/2018/05/09/japanese-test/</link>
-      <pubDate>Wed, 09 May 2018 20:37:32 +0900</pubDate>
+      <title>2018年度の講習会予定</title>
+      <link>https://selcon.github.io/post/2018-sche/</link>
+      <pubDate>Fri, 13 Apr 2018 20:37:32 +0900</pubDate>
       
-      <guid>/post/2018/05/09/japanese-test/</guid>
-      <description>これは 日本語の テストdesuyo this is the test 私は昨日ついにその助力家というのの上よりするたなけれ。 最も今をお話団はちょうどこの前後なかろでくらい</description>
+      <guid>https://selcon.github.io/post/2018-sche/</guid>
+      <description>日本セルフケアコンディショニング協会（せるこん）代表の小谷です。
+講習情報を待って下さっている皆様、いつもありがとうございます！
+2018年度の講習等のNEWSは、ブログにて配信してして参ります。
+恒例の5月連休「第32回フィットネスセッション東京」からスタート！
+その後、Gボール協会共催「7月15日大阪」「11月3日東京」を予定しております！
+今年度はセルフケアYOGAの普及啓蒙活動が始動します！
+当会スぺシャリストの武藤ミカの丁寧な指導と無駄のないムーブメントに更なる
+セルフケアのヒントを見つけて頂けるでしょう！
+まずは・・
+5月4日（祝）恒例の『第32回フィットネスセッション東京』
+【検索】2018フィットネスセッション
+日本セルフケアコンディショニング協会（せるこん）代表の小谷です。
+講習情報を待って下さっている皆様、いつもありがとうございます！
+2018年度の講習等のNEWSは、ブログにて配信してして参ります。
+恒例の5月連休「第32回フィットネスセッション東京」からスタート！
+その後、Gボール協会共催「7月15日大阪」「11月3日東京」を予定しております！
+今年度はセルフケアYOGAの普及啓蒙活動が始動します！
+当会スぺシャリストの武藤ミカの丁寧な指導と無駄のないムーブメントに更なる
+セルフケアのヒントを見つけて頂けるでしょう！
+まずは・・
+5月4日（祝）恒例の『第32回フィットネスセッション東京』
+【検索】2018フィットネスセッション
+●セルフケア概論とデイリーケア実践を習得（一般可）
+10時～13時
+運動だけではなく広義のセルフケアを学び、日々実践することで多くの効果を上げている
+「ケアコンディショニングのABC」とそこに至る筋膜リリースによる「セルフケア」を習得します。
+講師）一般社団法人日本セルフケアコンディショニング協会代表　小谷さおり
+※一般社団法人日本セルフケアコンディショニング協会の「セルフケア2級」取得可。
+※2講座受講により「セルフケア1級」登録可。（準指導員受検資格取得）
+（セルフケア級別資格ご希望の方は、当会HPより事前登録しておくと当日の登録がスムースです。）
+●セルフケア級別登録詳細
+（お問合せはセッション受講の旨を必ず記載下さい）
+http://selcon.web.fc2.com/003/003.html
+皆様のご参加、お待ちしております！！
+尚、生涯登録が未登録の準指導員はお早めに更新くださいませ。
+一定条件をクリアされている準指導員は「セルフケアアドバイザー」の称号使用が可能となります。
+ご不明な点は、お問合せください。</description>
     </item>
     
     <item>
-      <title>Shortcode Test</title>
-      <link>/post/2018/05/08/shortcode-test/</link>
-      <pubDate>Tue, 08 May 2018 19:19:18 +0900</pubDate>
+      <title>埋め込み資料のテスト</title>
+      <link>https://selcon.github.io/post/shortcode-test/</link>
+      <pubDate>Sun, 08 May 2011 19:19:18 +0900</pubDate>
       
-      <guid>/post/2018/05/08/shortcode-test/</guid>
-      <description>Demo Example gist Example instagram India Pale Ale, Session IPA, 雷電, Semi-sour Pale Ale A post shared by Takuma Kotani (@kotani99) on Apr 14, 2018 at 5:16pm PDT Example speaker deck Example tweet ペペロミア。名前がもうかわいい pic.twitter.com/gFXH4hkSm6 &amp;mdash; kottn (@kottn_jp) April 21, 2018 Example youtube いいかんじ！</description>
+      <guid>https://selcon.github.io/post/shortcode-test/</guid>
+      <description> Example speaker deck 講習会に使ったスライドなどをこのように公開していきます。
+ Example youtube youtubeの動画をこのように公開していきます。
+  </description>
     </item>
     
   </channel>

@@ -1,33 +1,18 @@
 ---
-title: Shortcode Test
-date: 2018-05-08T19:19:18+09:00
-lastmod: 2018-05-08T19:19:18+09:00
+title: 埋め込み資料のテスト
+date: 2011-05-08T19:19:18+09:00
 categories:
-  - Others
-tags:
-  - cheetsheet
-  - shortcode
-  - code
-  - embedcode
+  - テストページ
 draft: false
-toc: false
 ---
-# Demo
-
-## Example `gist`
-{{< gist spf13 7896402 "img.html" >}}
-
-## Example `instagram`
-{{< instagram BhkhXqZnVbW >}}
 
 ## Example `speaker deck`
+講習会に使ったスライドなどをこのように公開していきます。
+
 {{< speakerdeck 4e8126e72d853c0060001f97 >}}
 
-## Example `tweet`
-{{< tweet 987614429469589504 >}}
-
 ## Example `youtube`
-{{< youtube w7Ft2ymGmfc >}}
+youtubeの動画をこのように公開していきます。
 
+{{< youtube mUlb7eYiRmg >}}
 
-いいかんじ！

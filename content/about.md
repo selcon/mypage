@@ -1,36 +1,69 @@
 ---
-title: "About me"
+title: "代表挨拶"
+date: 2018-02-28T20:37:32+09:00
 ---
-I'm Takuma Kotani (a.k.a. **kottn**), a disaster prevention and mitigation engineer at [IRIDeS](http://irides.tohoku.ac.jp/eng/index.html).
 
-[GH:space_invader:](https://github.com/kottn)/[SC:sound:](https://soundcloud.com/takuma-kotani)/[TW:thought_balloon:](https://twitter.com/kottn_jp)/[SD:mortar_board:](https://speakerdeck.com/kottn)/[FB:busts_in_silhouette:](https://www.facebook.com/takuma.kotani.16)/[IG:sunflower:](https://www.instagram.com/kotani99)
+![](/images/kotani_photo.jpg)
 
-## Education
-* **Tohoku University**, Japan  
-Ph.D (Civil and Environmental Engineering), Mar 2019.  
-M.S. (Civil and Environmental Engineering), Mar 2016.  
+**一般社団法人日本セルフケアコンディショニング協会　会長**  
+**小谷 さおり (Saori KOTANI)**
 
-* **Kisarazu National College of Technology**, Japan  
-B.S. (Civil and Environmental Engineering), Mar 2014.
+３０年近く、コンディショニングの指導や指導者の育成に携わり、 様々なプログラム提供を、おこなって参りました。 
 
-## Work
-Comming soon.
+日々のセルフケアとセルフコンディショニングは、疲れにくいからだを養い、 疲れにくいからだは、心のゆとりをつくります。 
 
-## Publications
+ゆとりは、優しさを生みます。 
 
-## Activities
-### Internships
-More details comming soon.
+ゆとりのある日常は、ストレスに強い自分を養う条件として必須です。 
+食や睡眠も含めて、トータルバランスを考えていける自分になる…
+それがセルフケアとセルフコンディショニングの達人への道と言えるでしょう。
 
-## Favorite
-* I:heart:Debian
+まずは、身近でできること、今日からできることから、始めてみませんか？ 
+当会（愛称：せるこん）がお手伝い致します。
 
-```
-                       (__) 
-                       (oo) 
-                 /------\/ 
-                / |    ||   
-               *  /\---/\ 
-                  ~~   ~~   
-      ..."Have you mooed today?"...
-```
+---
+
+## 略歴
+スキー指導者を目指しながら、山籠っていた青春時代…オフ期の仕事とトレーニングのために身内が所属していた日本体育協会の近代五種競技の扉を叩くと、オープンしたてのあるコンディショニングセンターを紹介され、この道に入りました。
+
+||||
+|:---|:---|:---|
+|**1982**|　|**(株)スポーツプログラムス**|
+|        |　|コンディショニングセンター代々木第１期研究科修了後、同社にて就業、チーフインストラクターとして指導者育成やコンディショニング指導に従事|
+|**1986**|　|**KotaniFitnessPlanning 設立**|
+|        |　|(株)ビッグスポーツ、セントラルスポーツ株式会社など、これまでに７社のスーパーバイザーや顧問に就任
+|**1990**|　|**KotaniFitness Programs&Planning (kfp2) へ**|
+|        |　|KotaniFitnessPlanningより改名し、プログラム開発に力を注ぐ
+|**1994**|　|**つえつえクラブ 発足**|
+|        |　|「シニア向けコンディショニングプログラム」を始動
+|**1998**|　|**つえつえクラブ/ヒザイタ改善普及会 設立**（関東）|
+|**2006**|　|**特定非営利活動法人つえつえクラブ 設立、理事長就任**|
+|**2007**|　|**社団法人日本フィットネス協会代議員就任**|
+|**2007**|　|**松下電工株式会社（現パナソニック電工）バランスデザインスタジオ顧問**|
+|**2008**|　|**特定非営利活動法人つえつえクラブ 会長就任**|
+|**2008**|　|**日本ヒザイタ改善普及会（改称）代表就任**|
+|**2010**|　|**一般社団法人日本セルフケアコンディショニング協会設立　代表理事**|
+
+## 現在
+* 一般社団法人日本セルフケアコンディショニング協会 代表理事
+* KFP2 ( KotaniFitnessPrograms&Planning ) 代表
+* 日本ヒザイタ改善普及会 会長
+* [特定非営利活動法人日本Gボール協会](http://www.g-ball.jp/) 理事（理事長：筑波大学助教授 長谷川清修)
+* 社団法人日本フィットネス協会代議員
+* 健康運動指導士/ JAFA / 日本Gボール協会　プロバイダー
+* 『東京フィットネスセッション』プレゼンター（1990年より毎年）
+* NIKE　JAPAN エリート 
+* 産前産後ケアPILATES認定インストラクター
+* [GYROTONIC®](https://www.gyrotonic.com/) 認定トレーナー
+
+## 執筆／監修活動
+* NHK出版「生活ほっとモーニング」創刊号
+* 月刊スポーツメディスン
+* 月刊フィットネスジャーナル
+* ターザン
+* OZマガジン
+* 『身体すっきり「バランスボール」』(VHS)
+* 『ヒザイタバイブル（非売）』小谷さおり著　
+* 『ヒザイタバイブル（非売）』小谷さおり著　
+* 『アクティブコンディショニング with 触覚ボール』(DVD)　他
+

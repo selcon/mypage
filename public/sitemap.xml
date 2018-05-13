@@ -3,86 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/2018/05/09/japanese-test/</loc>
-    <lastmod>2018-05-09T20:37:32+09:00</lastmod>
+    <loc>https://selcon.github.io/post/2018-sche/</loc>
+    <lastmod>2018-04-13T20:37:32+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2018/05/08/shortcode-test/</loc>
-    <lastmod>2018-05-08T19:19:18+09:00</lastmod>
+    <loc>https://selcon.github.io/about/</loc>
+    <lastmod>2018-02-28T20:37:32+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://selcon.github.io/post/shortcode-test/</loc>
+    <lastmod>2011-05-08T19:19:18+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://selcon.github.io/articles_of_incorporation/</loc>
+    <lastmod>2010-02-28T20:37:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://selcon.github.io/service/service3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://selcon.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/cheetsheet/</loc>
-    <lastmod>2018-05-08T19:19:18+09:00</lastmod>
+    <loc>https://selcon.github.io/service/service1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://selcon.github.io/</loc>
+    <lastmod>2018-04-13T20:37:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/code/</loc>
-    <lastmod>2018-05-08T19:19:18+09:00</lastmod>
+    <loc>https://selcon.github.io/post/</loc>
+    <lastmod>2018-04-13T20:37:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/embedcode/</loc>
-    <lastmod>2018-05-08T19:19:18+09:00</lastmod>
+    <loc>https://selcon.github.io/service/service4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://selcon.github.io/service/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-05-09T20:37:32+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/japanese/</loc>
-    <lastmod>2018-05-09T20:37:32+09:00</lastmod>
+    <loc>https://selcon.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/others/</loc>
-    <lastmod>2018-05-09T20:37:32+09:00</lastmod>
+    <loc>https://selcon.github.io/service/service2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://selcon.github.io/mission/</loc>
+  </url>
+  
+  <url>
+    <loc>https://selcon.github.io/categories/%E3%83%86%E3%82%B9%E3%83%88%E3%83%9A%E3%83%BC%E3%82%B8/</loc>
+    <lastmod>2011-05-08T19:19:18+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/post/</loc>
-    <lastmod>2018-05-09T20:37:32+09:00</lastmod>
-    <priority>0</priority>
+    <loc>https://selcon.github.io/screening_system/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2018-05-09T20:37:32+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/shortcode/</loc>
-    <lastmod>2018-05-08T19:19:18+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-05-08T19:19:18+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/test/</loc>
-    <lastmod>2018-05-09T20:37:32+09:00</lastmod>
+    <loc>https://selcon.github.io/categories/%E8%AC%9B%E7%BF%92%E4%BC%9A%E6%A1%88%E5%86%85/</loc>
+    <lastmod>2018-04-13T20:37:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
