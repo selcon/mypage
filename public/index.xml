@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Initio - Free, multipurpose html5 template by GetTemplate</title>
-    <link>https://selcon.github.io/</link>
+    <link>/</link>
     <description>Recent content on Initio - Free, multipurpose html5 template by GetTemplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 13 Apr 2018 20:37:32 +0900</lastBuildDate>
     
-	<atom:link href="https://selcon.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018年度の講習会予定</title>
-      <link>https://selcon.github.io/post/2018-sche/</link>
+      <link>/post/2018-sche/</link>
       <pubDate>Fri, 13 Apr 2018 20:37:32 +0900</pubDate>
       
-      <guid>https://selcon.github.io/post/2018-sche/</guid>
+      <guid>/post/2018-sche/</guid>
       <description>日本セルフケアコンディショニング協会（せるこん）代表の小谷です。
 講習情報を待って下さっている皆様、いつもありがとうございます！
 2018年度の講習等のNEWSは、ブログにて配信してして参ります。
@@ -58,10 +58,10 @@ http://selcon.web.fc2.com/003/003.html
     
     <item>
       <title>代表挨拶</title>
-      <link>https://selcon.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 28 Feb 2018 20:37:32 +0900</pubDate>
       
-      <guid>https://selcon.github.io/about/</guid>
+      <guid>/about/</guid>
       <description> 一般社団法人日本セルフケアコンディショニング協会　会長
 小谷 さおり (Saori KOTANI)
 ３０年近く、コンディショニングの指導や指導者の育成に携わり、 様々なプログラム提供を、おこなって参りました。
@@ -75,10 +75,10 @@ http://selcon.web.fc2.com/003/003.html
     
     <item>
       <title>埋め込み資料のテスト</title>
-      <link>https://selcon.github.io/post/shortcode-test/</link>
+      <link>/post/shortcode-test/</link>
       <pubDate>Sun, 08 May 2011 19:19:18 +0900</pubDate>
       
-      <guid>https://selcon.github.io/post/shortcode-test/</guid>
+      <guid>/post/shortcode-test/</guid>
       <description> Example speaker deck 講習会に使ったスライドなどをこのように公開していきます。
  Example youtube youtubeの動画をこのように公開していきます。
   </description>
@@ -86,20 +86,20 @@ http://selcon.web.fc2.com/003/003.html
     
     <item>
       <title>定義抜粋</title>
-      <link>https://selcon.github.io/articles_of_incorporation/</link>
+      <link>/articles_of_incorporation/</link>
       <pubDate>Sun, 28 Feb 2010 20:37:32 +0900</pubDate>
       
-      <guid>https://selcon.github.io/articles_of_incorporation/</guid>
+      <guid>/articles_of_incorporation/</guid>
       <description> 以下をクリックしてダウンロードしてください。
 定義抜粋PDF (120KB) </description>
     </item>
     
     <item>
       <title>Application development</title>
-      <link>https://selcon.github.io/service/service3/</link>
+      <link>/service/service3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://selcon.github.io/service/service3/</guid>
+      <guid>/service/service3/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -107,10 +107,10 @@ http://selcon.web.fc2.com/003/003.html
     
     <item>
       <title>Custom website design</title>
-      <link>https://selcon.github.io/service/service1/</link>
+      <link>/service/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://selcon.github.io/service/service1/</guid>
+      <guid>/service/service1/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -118,10 +118,10 @@ http://selcon.web.fc2.com/003/003.html
     
     <item>
       <title>SEO &amp; SEM services</title>
-      <link>https://selcon.github.io/service/service4/</link>
+      <link>/service/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://selcon.github.io/service/service4/</guid>
+      <guid>/service/service4/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -129,10 +129,10 @@ http://selcon.web.fc2.com/003/003.html
     
     <item>
       <title>Wordpress integration</title>
-      <link>https://selcon.github.io/service/service2/</link>
+      <link>/service/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://selcon.github.io/service/service2/</guid>
+      <guid>/service/service2/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -140,10 +140,10 @@ http://selcon.web.fc2.com/003/003.html
     
     <item>
       <title>「せるこん」ってなに？</title>
-      <link>https://selcon.github.io/mission/</link>
+      <link>/mission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://selcon.github.io/mission/</guid>
+      <guid>/mission/</guid>
       <description>『触覚ボール』を、いつでもあなたを優しくケアしてくれるパートナーにします 「肩がこると指でおす」 「胃がもたれれ撫でる」 「腰が丸まると伸びたくなる」 私たちは日常、こうして無意識に 自分のからだを守るためのセルフケアを行っています。 人にほぐしてもらう方が楽で気持ちがいいですが、 それも毎日というわけにはいきません。 そんなとき、自分でいつでもどこでも辛い時にケアができれば、 からだは喜びます。
 当会のプログラムは、パーツを鍛えるのでなく、 足裏～骨盤～四肢へのエネルギーラインをイメージしながら、 ゆるやかに動かすことにより、コリやハリに気づき、 自身のアンバランスを整えていきます。
 その中で強いこわばりには、呼吸と垂直圧・平圧というテクニックで、 特別なアプローチをかけていきます。
@@ -163,10 +163,10 @@ http://selcon.web.fc2.com/003/003.html
     
     <item>
       <title>検定登録の流れ</title>
-      <link>https://selcon.github.io/screening_system/</link>
+      <link>/screening_system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://selcon.github.io/screening_system/</guid>
+      <guid>/screening_system/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Initio - Free, multipurpose html5 template by GetTemplate</title>
-    <link>https://selcon.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Initio - Free, multipurpose html5 template by GetTemplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 13 Apr 2018 20:37:32 +0900</lastBuildDate>
     
-	<atom:link href="https://selcon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018年度の講習会予定</title>
-      <link>https://selcon.github.io/post/2018-sche/</link>
+      <link>/post/2018-sche/</link>
       <pubDate>Fri, 13 Apr 2018 20:37:32 +0900</pubDate>
       
-      <guid>https://selcon.github.io/post/2018-sche/</guid>
+      <guid>/post/2018-sche/</guid>
       <description>日本セルフケアコンディショニング協会（せるこん）代表の小谷です。
 講習情報を待って下さっている皆様、いつもありがとうございます！
 2018年度の講習等のNEWSは、ブログにて配信してして参ります。
@@ -58,10 +58,10 @@ http://selcon.web.fc2.com/003/003.html
     
     <item>
       <title>埋め込み資料のテスト</title>
-      <link>https://selcon.github.io/post/shortcode-test/</link>
+      <link>/post/shortcode-test/</link>
       <pubDate>Sun, 08 May 2011 19:19:18 +0900</pubDate>
       
-      <guid>https://selcon.github.io/post/shortcode-test/</guid>
+      <guid>/post/shortcode-test/</guid>
       <description> Example speaker deck 講習会に使ったスライドなどをこのように公開していきます。
  Example youtube youtubeの動画をこのように公開していきます。
   </description>

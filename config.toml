@@ -1,4 +1,4 @@
-baseURL = "https://selcon.github.io/"
+baseURL = "/"
 languageCode = "ja"
 title = "Initio - Free, multipurpose html5 template by GetTemplate"
 theme = "hugo-initio"
