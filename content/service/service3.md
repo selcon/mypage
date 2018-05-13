@@ -1,8 +1,8 @@
 +++
-title = "Application development"
+title = "物販ページ"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+**触覚ボール**をはじめ、当会が推薦するせるこんアイテムを取り揃えております。**会員限定価格**や**限定特典**も多数ご案内中です！
 
 <!--more-->
 

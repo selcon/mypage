@@ -1,9 +1,11 @@
 +++
-title = "SEO & SEM services"
+title = "検定登録システム"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+当会ではレッスンだけでなく、セルフケア指導員育成のためのプログラムもございます。このページでは日本セルフケアコンディショニング協会（せるこん）資格登録フローをご説明いたします。
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 検定登録の流れ
+![](/screening_system/system_flow2.png)
+

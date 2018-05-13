@@ -42,21 +42,13 @@ theme = "hugo-initio"
     url = "/lesson/"
     weight = 5
 [[menu.main]]
-    name = "検定登録システム"
-    url = "/screening_system/"
-    weight = 7
-[[menu.main]]
-    name = "せるこんブログ"
+    name = "せるこん おふぃしゃるBLOG"
     url = "/post/"
     weight = 8
 [[menu.main]]
     name = "お問い合わせ"
     url = "/contact/"
     weight = 9
-[[menu.main]]
-    name = "定義抜粋"
-    url = "/articles_of_incorporation/"
-    weight = 10
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"

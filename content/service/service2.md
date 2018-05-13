@@ -1,9 +1,24 @@
 +++
-title = "Wordpress integration"
+title = "せるこん情報配信"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+公式ブログ・公式Facebookアカウントのご案内ページです。公式ブログでは、**新規講習会の開催概要**や**参加募集の案内**が配信されるので要チェックです！
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+</br>
+
+#### [☞ 「せるこん おふぃしゃるBLOG」](/post/)
+<u>**重要な講習会情報・参加案内は、基本的にこのブログで配信されます。**</u> ぜひぜひ、チェック宜しくお願いします！  その他にも、過去の講習会レポートや、セルフケアコンディショニングにまつわる豆知識・動画配信など、新しい情報を随時更新していきます！
+
+</br>
+
+#### [☞ 「公式 Facebook ページ（作成中）」](https://www.facebook.com/FacebookJapan/)(New!)
+おふぃしゃるBLOGの更新に時間がかかる関係で、<u>**周知を急ぐ情報については、このページで取り急ぎ配信する場合があります※**</u> 。ぜひぜひご活用いただけるとうれしいです。なお普段の投稿では、「せるこん おふぃしゃるBLOG」が更新される度に **BLOG記事への案内（リンク）を Facebook で配信いたします。**Facebookから、すべての最新情報を見逃すことなく、いち早くチェックしていただけるようになりました。ぜひぜひ、お気軽にフォローしてご活用下さい！
+
+**※**）その場合、後日追って「おふぃしゃるBLOG」に再掲する形になります。
+
+---
+
+過去のせるこんブログは[こちら](http://selconblog.blog6.fc2.com/)から。
