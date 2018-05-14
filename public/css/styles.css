@@ -1,5 +1,4 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
-/* @import url(http://fonts.googleapis.com/earlyaccess/roundedmplus1c.css); */
 body {
   font-family: 'Noto Sans JP', serif, sans-serif;
 }
@@ -16,18 +15,14 @@ body {
 .topspace {
   margin-top: 40px;
 }
+
+/* 背景画像用 */
 body {
-  /* 画像ファイルの指定 */
-  background-image: url(../bg/bg_green_v2.png);
-  /* 画像を常に天地左右の中央に配置 */
+  background-image: url(../bg/bg_green_v10.svg);
   background-position: center center;
-  /* 画像をタイル状に繰り返し表示しない */
   background-repeat: no-repeat;
-  /* コンテンツの高さが画像の高さより大きい時、動かないように固定 */
   background-attachment: fixed;
-  /* 表示するコンテナの大きさに基づいて、背景画像を調整 */
   background-size: cover;
-  /* 背景画像が読み込まれる前に表示される背景のカラー */
   background-color: #464646;
 }
 /*********************************************************************
@@ -88,12 +83,12 @@ body {
   border-color: #cccccc;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #339966;
+  color: #24bf1c;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #000000;
-  background-color: #ffffff;
+  background-color: #eeffb7;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
@@ -219,7 +214,8 @@ a:hover {
 .lead {
   font-weight: 300;
   font-size: 21px;
-  font-size: 1.3125rem;
+  /* font-size: 1.3125rem; */
+  font-size: 1.0rem;
 }
 .text-msg {
   line-height: 1.7em;
@@ -244,7 +240,7 @@ a:hover {
 
 **********************************************************************/
 #head {
-  background: #f4f4f4 url(../bg/top_bg_color_v2.png) top center;
+  background: #f4f4f4 url(../bg/top_bg_v10.svg) top center;
   background-size: cover;
   color: #7C7C7C;
   padding: 30px 0 35px 0;
@@ -286,13 +282,13 @@ a:hover {
   color: #5E5E5E;
 }
 .home #head {
-  padding: 90px 0;
+  padding: 30px 0;
 }
 .home #head .title {
-  /* font-family: "Rounded Mplus 1c", serif; */
   font-size: 49px;
   font-size: 3.0625rem;
-  font-size: 90%;
+  font-size: 70%;
+  font-weight: 700;
 }
 .home #head .tagline {
   font-size: 16px;
